@@ -1,0 +1,10 @@
+p=int(input("enter 1st number: "))
+n=int(input("enter 2nd number: "))
+print("addition:",p+n)
+print("substraction:",p-n)
+print("multiplication:",p*n)
+print("Division:",p/n)
+
+Name=input("Enter your first name:")
+sirname=input("Enter your last name:")
+print("Hello,",Name,sirname,"!Wellcome to the python program." )
